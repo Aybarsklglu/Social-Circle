@@ -1,8 +1,3 @@
-Gmail	Aybars Kuloglu <aybarskuloglu2008@gmail.com>
-(konu yok)
-Aybars Kuloglu <aybarskuloglu2008@gmail.com>	10 Ağustos 2025 12:58
-Alıcı: Mustafa Çiftcioğlu <mustafaciftciogluuu@gmail.com>
-
 from tkcalendar import Calendar
 from tkinter import *
 from tkinter import ttk
